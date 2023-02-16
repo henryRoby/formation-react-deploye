@@ -1,0 +1,9 @@
+.article-content{
+    max-width:700px;
+    min-width: 300px;
+    margin: 100px auto;
+}
+.article-content{
+    font-size: 20px;
+    margin-bottom: 10px;
+}
